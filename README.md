@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ratna2199
 - 👀 I’m a fresher in the world of coding
 - 🌱 I’m currently learning programming concepts
-- 💞️ I’m looking to collaborate on projects to help build my programming skills.
+- 💞️ I’m looking to collaborate on projects to help build my skills.
 - 📫 Reach me at ratnaverma24@gmail.com
 
 <!---
